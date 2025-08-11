@@ -16,9 +16,9 @@ It covers the complete database lifecycle — from domain description, ER modeli
 ---
 
 ## Repository Contents
-- `docs/Domain_Description_ER_Model.pdf` — Database description, ER diagram and Conversion of ER to Relational Database
-- `docs/Relational_Schema.pdf`- Relational schema.
-- `docs/SQL_Queries.pdf` — SQL queries with explanations.
-- `sql/realestate.sql` — MySQL script to create the database and insert mock data.
+- `Domain_Description_ER_Model.pdf` — Database description, ER diagram and Conversion of ER to Relational Database
+- `Relational_Schema.pdf`- Relational schema.
+- `SQL_Queries.pdf` — SQL queries with explanations.
+- `realestate.sql` — MySQL script to create the database and insert mock data.
 
 ---
